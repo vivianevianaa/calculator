@@ -5,3 +5,5 @@ Project "Calculator w/ Glassmorphism", created from "Online Tutorials".
 * CSS3
 * Vanilla-tilt.js
 * Icons8
+
+A simple project to practice.
